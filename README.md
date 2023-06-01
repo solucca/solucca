@@ -1,5 +1,11 @@
+# Greetins! My name is Lucca Giusti!
+I am a Brazilian student living in Berlin, and currently on my way to finish my bachelors degree in computer engineering.
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on FIWARE foundation<br>
+🌱 I’m currently looking for new opportunities to gain real world experiences<br>
+⚡ Fun fact! My first programm was a python script written in a RaspberryPi! I can’t recommend these board enough! <br>
+
+Now I aim to explore different parts of the industry and learn about myself and my talents to decide what my focus in the future will be!
 
 
 ## 🌐 Socials:
