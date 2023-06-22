@@ -1,4 +1,4 @@
-# Greetins! My name is Lucca Giusti!
+# Greetings! My name is Lucca Giusti!
 I am a Brazilian student living in Berlin, and currently on my way to finish my bachelors degree in computer engineering.
 # 💫 About Me:
 🔭 I’m currently working on FIWARE foundation<br>
